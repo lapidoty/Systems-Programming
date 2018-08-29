@@ -10,7 +10,7 @@ command for details.
 Your program will be executed in the following way: “./bin/fs”. Your program must not receive
 any external arguments "
 
-# Multi-Threaded Actor Thread Pool implementaion, which used for University Management System
+# Multi-Threaded Actor Thread Pool implementation, which used for University Management System
 " In the following assignment you are required to implement an Actor ThreadPool, and to use it to build a University
 Management System. In Actor thread pool, each actor has a queue of actions. One can submit new actions for
 actors and the pool makes sure that each actor will run its actions in the order they were received, while not
